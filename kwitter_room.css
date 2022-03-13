@@ -1,0 +1,36 @@
+#logout{
+    float: right;
+    font-size: 20px;
+}
+body{
+    background-color: cornflowerblue;
+}
+.logo1{
+    margin-left: 10px;
+    margin-top: 7px;
+}
+.color_white
+{
+	color: white
+}
+label{
+    color: rgb(255, 255, 255);
+}
+h1{
+    color: rgb(255, 255, 255);
+}
+#add_room{
+    background-color: chartreuse;
+    font-size: 20px;
+    width: 20%;
+}
+#room_name{
+    width:45%;
+}
+h2 {
+    color:rgb(255, 255, 255);
+}
+#output
+{
+	padding: 10px; width:60%;background: rgba(255,255,255,0.8);border-radius: 15px;
+}
